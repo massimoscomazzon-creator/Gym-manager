@@ -1,0 +1,6 @@
+{
+  "name": "Gym Manager & Booking System",
+  "description": "Una suite completa per la gestione della palestra, prenotazioni corsi in tempo reale, statistiche finanziarie per i proprietari e gamification per gli atleti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
